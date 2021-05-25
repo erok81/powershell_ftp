@@ -6,10 +6,10 @@ param (
   # Final desination for files after upload
   $BackupPath = "<add path here>",
   # Below is all sftp information
-	$HostName = "<add credentials here>",
-	$UserName = "<add credentials here>",
-	$Password = "<add credentials here>",
-	$SSHKey = "<add credentials here>"
+  $HostName = "<add credentials here>",
+  $UserName = "<add credentials here>",
+  $Password = "<add credentials here>",
+  $SSHKey = "<add credentials here>"
 )
 
 try
